@@ -1,2 +1,2 @@
 # Instructions
-Code written for pygame.
+Code written for Pygame engine.
