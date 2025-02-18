@@ -34,7 +34,7 @@ Some creatures may initially resist healing and may even react aggressively. The
 
 We're just beginning, so the possibilities are wide open! Here’s what we hope to implement and would love your help building:
 
-- **Creature Design**: Develop a variety of creatures with unique personalities, traumas, and healing needs.
+- **Creature Design**: Develop a variety of creatures with unique personalities, traumas, and healing needs. Imagine having traits like Hider, Dreamer, Fighter or Creator.
 - **Healing Techniques**: Expand the ways players can interact with creatures (e.g., playing music, storytelling, introducing games).
 - **Emotional Reactions**: Implement creature responses based on how they feel (e.g., gratefulness, calmness, trust).
 - **World-Building**: Design biomes, landscapes, and environments that reflect different moods and themes.
