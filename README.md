@@ -4,7 +4,7 @@ Healing Grounds is an open-source game where players heal creatures’ physical,
 
 
 <p align="center">
-<img src="circular--engaging-logo-for-a-game-called--healing.png" alt="HealingGrounds" style="width: 40%; height: auto; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);">
+<img src="circular--engaging-logo-for-a-game-called--healing%20(1).png" alt="HealingGrounds" style="width: 40%; height: auto; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);">
 
 </p>
 
