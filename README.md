@@ -2,6 +2,13 @@
 Healing Grounds is an open-source game where players heal creatures’ physical, emotional, and social wounds. Rather than combat, players use empathy and connection to restore well-being in a world filled with creatures in need. Join us in building a unique adventure focused on healing and compassion!
 
 
+
+<p align="center">
+<img src="circular--engaging-logo-for-a-game-called--healing.png" alt="HealingGrounds" style="width: 40%; height: auto; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);">
+
+</p>
+
+
 # Healing Grounds: A Game of Restoration
 
 Welcome to *Healing Grounds*, an open-source game where the objective isn't to defeat monsters, but to heal creatures who are struggling with wounds to their body, mind, or spirit. As a healer, you wander a vast world, meeting creatures in need and helping them find peace, resilience, and connection.
